@@ -1,0 +1,8 @@
+D:\NhiHo\C#\DataGridView Textbox Button\DataGridView Textbox Button\bin\Debug\DataGridView Textbox Button.exe
+D:\NhiHo\C#\DataGridView Textbox Button\DataGridView Textbox Button\bin\Debug\DataGridView Textbox Button.pdb
+D:\NhiHo\C#\DataGridView Textbox Button\DataGridView Textbox Button\obj\x86\Debug\DataGridView_Textbox_Button.Form1.resources
+D:\NhiHo\C#\DataGridView Textbox Button\DataGridView Textbox Button\obj\x86\Debug\DataGridView_Textbox_Button.Properties.Resources.resources
+D:\NhiHo\C#\DataGridView Textbox Button\DataGridView Textbox Button\obj\x86\Debug\DataGridView Textbox Button.csproj.GenerateResource.Cache
+D:\NhiHo\C#\DataGridView Textbox Button\DataGridView Textbox Button\obj\x86\Debug\DataGridView Textbox Button.exe
+D:\NhiHo\C#\DataGridView Textbox Button\DataGridView Textbox Button\obj\x86\Debug\DataGridView Textbox Button.pdb
+D:\NhiHo\C#\DataGridView Textbox Button\DataGridView Textbox Button\obj\x86\Debug\DataGridView Textbox Button.csprojResolveAssemblyReference.cache
